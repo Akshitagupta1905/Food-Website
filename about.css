@@ -1,0 +1,446 @@
+body{
+    background-color:#f9f6ee;
+}
+.one .row{
+    height: 100px;
+}
+.two{
+    width: 100%;
+    height: 600px;
+}
+.two .container{
+    background-color:white; 
+    height: 550px;
+    width: 90%;
+    border-radius: 40px;
+}
+.two .a{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+}
+.two .c{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.two .para{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: black;
+}
+.two .row{
+    display: flex;
+    color: black;
+    margin-left: 15px;
+}
+.two img{
+    width:450px;
+     height:450px;
+     border-radius: 25px;
+      margin-top: 30px;
+}
+.two .btn {
+    margin-top: 30px;
+    background-color:#f1ae0e;
+    border-radius: 40px;
+    width: 180px;
+    height: 55px;
+    margin-left: 10px;
+}
+.three{
+    width: 100%;
+    height: 550px;
+    background-color:#f1ae0e
+}
+
+.three .col-12{
+    width: 100%;
+    height: 470px;
+    background-color: #f9f6ee ;
+    margin-top: 50px;
+    /* margin-left: 40px; */
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+.three .text{
+    margin-top: 30px;
+}
+.three .para{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.three .btn {
+    margin-top: 30px;
+    background-color:#99e54d;
+    border-radius: 40px;
+    width: 180px;
+    height: 55px;
+    margin-left: 10px;
+}
+.four{
+    width: 100%;
+    height: 700px;
+    padding-top: 50px;
+    background-color: #f9f6ee;
+}
+.four .container{
+    background-color:white; 
+    height: 600px;
+    width: 90%;
+    border-radius: 40px;
+}
+.four .img{
+    width:450px;
+    height:500px;
+    border-radius: 25px;
+     margin:30px 0px 0px 10px;
+}
+.four .a{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+}
+.four .c{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.four .para{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: black;
+}
+.four .row{
+    display: flex;
+    
+}
+.four .btn {
+    margin-top: 30px;
+    background-color:#f1ae0e;
+    border-radius: 40px;
+    width: 180px;
+    height: 55px;
+    margin-left: 10px;
+}
+.five{
+    background-color:#f9f6ee;
+    width: 100%;
+    height: 400px;
+    
+}
+.five .header{
+  color: white;
+   font-weight: 700; 
+   font-size: 25px; 
+   margin-top: 150px;
+   margin-left: 70px;
+}
+
+.five .card1{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.wyUFOFsj0OdRY1sZyjhd0wHaFj&pid=Api&P=0&h=180);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5%; 
+    width: 350px;
+    height: 350px; 
+    background-color: black; 
+    text-align: center;
+}
+.five .card2{
+    background-image: url(/image/do.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5%; 
+    width: 350px;
+    height: 350px; 
+    background-color: black; 
+    text-align: center;
+}
+.five .card3{
+    background-image: url(/image/food2.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5%; 
+    width: 350px;
+    height: 350px; 
+    background-color: black; 
+    text-align: center;
+}
+.six{
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    background-color:#99e54d
+}
+
+.six .col-12{
+    width: 80%;
+    height: 270px;
+    background-color: #f9f6ee ;
+    margin-top: 50px;
+    margin-left: 150px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+.six .text{
+    padding-top: 20px;
+}
+.six .head{
+    padding-top: 20px;
+}
+.six .textin{
+    display: flex;
+    margin-top: 29px;
+    text-align: center;
+    justify-content: center;
+}
+.six .submit{
+    width: 120px;;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #99e54d;
+    margin-left: 20px;
+}
+
+.six .textbox{
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+    background-color:white;
+    
+    
+}
+.seven{
+    width: 100%;
+    height: 600px;
+    background-color:#f9f6ee
+}
+.seven .container {
+    padding-top: 40px;
+}
+.seven .row{
+    width: 100%;
+    height: 600px;
+    background-color: white ;
+    display: flex;
+    border-radius: 30px;
+}
+.seven .heading{
+      text-align: center;
+      margin-top: 30px;
+}
+.seven  .header{
+    font-size: 20px;
+    margin-left: 50px;
+    font-weight: bolder;
+}
+
+.seven .text .box{
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #99e54d;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    
+}
+.seven  .para{
+    color: white;
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: black;
+   
+}
+.seven .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.seven .head{
+    margin-left: 50px;
+    font-weight: bolder;
+}
+.seven .btn{
+    width: 200px;
+    height: 55px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.seven .box1{
+    width: 200%;
+    height: 120px;
+    margin-top: 30px;  
+}
+.seven .card9{
+    
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.seven .card10{
+   
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    margin-right: 40px;
+    flex-direction: column;
+}
+.seven .card11{
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.seven .box1 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.seven .box1 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.seven .box1 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.seven .box1 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.seven .box2{
+    width: 200%;
+    height: 150px;
+    margin-top: 30px;
+    
+}
+.seven .box2 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.seven .box2 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.seven .box2 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.seven .box2 .com1{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.seven .box2 .logo{
+    color: black; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.seven .box2 .logo1{
+    color: black; 
+    text-decoration: none;
+    margin-left: -380px;
+    margin-top: 300px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.seven .box3{
+    width: 200%;
+    height: 280px;
+    margin-top: 30px;
+    
+}
+.seven .box3 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.seven .box3 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.seven .box3 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.seven .box3 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.eight{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: gray;
+    color: white;
+    margin-top: 100px;
+}
+.eight .head{
+    margin-top: 60px;
+    color: white;
+}
+.eight .a{
+    color: white;
+}

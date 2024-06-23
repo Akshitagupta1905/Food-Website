@@ -1,0 +1,347 @@
+body{
+    background-color:#f9f6ee;
+}
+.one .row{
+    height: 100px;
+}
+.two {
+    width: 100%;
+    height: 350px;
+    color: white;
+}
+.two .head{
+    padding-top: 20px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+.two .header{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.two .col-12 {
+    width: 90%;
+    height: 650px;
+    background-color:white;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+.two .first{
+    color: black;
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+}
+.two .a{
+    border-radius: 25px;
+    width: 210%;
+    height: 50px;
+    border: 2px black solid;
+}
+.two .second{
+    color: black;
+    margin-top: 50px;
+    float: left;
+    margin-left:220px;
+}
+.two .third{
+    color: black;
+    margin-left: 100px;
+    margin-top:150px;
+   
+}
+.two .third .head{
+    margin-top: 50px;
+    margin-left: -800px;
+    font-weight: normal;
+}
+.two .b{
+    border-radius: 25px;
+    width: 90%;
+    height: 150px;
+    border:2px black solid;
+}
+.two .submit {
+    width: 120px;
+    height: 50px;
+    color: white;
+    border-radius: 25px;
+    border: 2px black solid;
+    background-color: #99e54d;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+.three{
+    width: 100%;
+    height: 350px;
+    margin-top: 400px;
+    background-color:#f1ae0e;
+}
+.three .text{
+    padding-top: 20px;
+}
+.three .col-12{
+    width: 80%;
+    height: 270px;
+    background-color: #f9f6ee ;
+    margin-top: 50px;
+    margin-left: 150px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+.three .textin{
+    display: flex;
+    margin-top: 29px;
+    text-align: center;
+    justify-content: center;
+}
+.three .submit{
+    width: 120px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #99e54d;
+    margin-left: 20px;
+}
+.three .textbox{
+    width: 220px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #99e54d;
+    
+    
+}
+.four{
+    width: 100%;
+    height: 600px;
+    background-color:#f9f6ee
+}
+.four .container {
+    padding-top: 40px;
+    /* height: 1000px; */
+}
+.four .row{
+    width: 100%;
+    height: 600px;
+    background-color: white ;
+    display: flex;
+    border-radius: 30px;
+}
+
+.four .text .box{
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #99e54d;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    
+}
+.four  .para{
+    color: white;
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: black;
+   
+}
+.four .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.four .head{
+    margin-left: 50px;
+    font-weight: bolder;
+}
+.four .btn{
+    width: 200px;
+    height: 55px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.four .heading{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bolder;
+}
+.four .header{
+    font-weight: bolder;
+    text-align: center;
+}
+.four .box1{
+    width: 200%;
+    height: 120px;
+    margin-top: 30px;
+    
+}
+.card9{
+    
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.card10{
+   
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    margin-right: 40px;
+    /* margin-left: -110px; */
+    flex-direction: column;
+}
+.card11{
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.four .box1 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.four .box1 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.four .box1 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.four .box1 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.four .box2{
+    width: 200%;
+    height: 150px;
+    margin-top: 30px;
+    
+}
+.four .box2 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.four .box2 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.four .box2 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.four .box2 .com1{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.four .box2 .logo{
+    color: black; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.four .box2 .logo1{
+    color: black; 
+    text-decoration: none;
+    margin-left: -380px;
+    margin-top: 300px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.four .box3{
+    width: 200%;
+    height: 280px;
+    margin-top: 30px;
+    
+}
+.four .box3 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.four .box3 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.four .box3 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.four .box3 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.five{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: #333333;
+    color: white;
+    margin-top: 100px;
+}
+.five .head{
+    margin-top: 60px;
+    color: white;
+}
+.five .a{
+    color: white;
+}

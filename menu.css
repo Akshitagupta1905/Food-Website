@@ -1,0 +1,516 @@
+body{
+    background-color: #f9f6ee;
+}
+.one .row{
+    height: 100px;
+}
+.two{
+    width: 100%;
+    height: 400px;
+    background-color: #99e54d;
+}
+.two .text{
+    padding-top: 20px;
+    font-weight: bolder;
+}
+.two .header{
+    padding-top: 20px;
+}
+
+.two .col-12{
+    width: 90%;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 60px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+.two .logo{
+    color: black; 
+    text-decoration: none; 
+    font-size: 33px; 
+    padding-top: 20px; 
+    font-weight: bolder;
+}
+.three {
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.three .head {
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.three .header {
+    text-align: center;
+    padding-top: 10px;
+}
+.three .link{
+    text-decoration: none; 
+    color:orange;
+}
+.four{
+    width: 100%;
+    height: 600px;
+}
+.four .row{
+color: white;
+}
+.four .box{
+    display: block;
+    color: black;
+}
+.four .a{
+color: black;
+font-weight: bolder;
+}
+.four .b{
+    font-size: 20px;
+}
+.four .img{
+width:500px;
+height:500px;
+border-radius: 25px
+}
+.four .c{
+color: white;
+font-size: 20px;
+}
+.five {
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.five .head {
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.five .header {
+    text-align: center;
+    padding-top: 10px;
+}
+.five .link{
+    text-decoration: none; 
+    color:orange;
+}
+.six{
+    width: 100%;
+    height: 600px;
+}
+.six .row{
+color: white;
+}
+.six .box{
+    display: block;
+    color: black;
+}
+.six .a{
+color: black;
+font-weight: bolder;
+}
+.six .b{
+    font-size: 20px;
+}
+.six .img{
+width:500px;
+height:600px;
+border-radius: 25px
+}
+.six .c{
+color: white;
+font-size: 20px;
+}
+.seven{
+    width: 100%;
+    margin-top: 80px;
+    height: 500px;
+}
+.seven .container{
+    background: url(/image/mon.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 40px;
+}
+.seven .p{
+    color: white;
+}
+.seven .col-6{
+    margin-left: 22px;
+}
+.seven .btn{
+    width: 200px;
+    height: 55px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.seven .text .box{
+    width: 200px;
+    height: 200px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.seven .text .t{
+    color: white;
+    margin-top: 10px;
+}
+.seven .text .para{
+    color: white;
+   
+}
+.seven .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.eight {
+    width: 100%;
+    height: 200px;
+    margin-top: 140px;
+}
+
+.eight .head {
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.eight .header {
+    text-align: center;
+    padding-top: 10px;
+}
+.eight .link{
+    text-decoration: none; 
+    color:orange;
+}
+.nine{
+    width: 100%;
+    height: 600px;
+}
+.nine .row{
+color: white;
+}
+.nine .box{
+    display: block;
+    color: black;
+}
+.nine .a{
+color: black;
+font-weight: bolder;
+}
+.nine .b{
+    font-size: 20px;
+}
+.nine .img{
+width:500px;
+height:500px;
+border-radius: 25px
+}
+.nine .c{
+color: white;
+font-size: 20px;
+}
+.ten {
+    width: 100%;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.ten .head {
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.ten .header {
+    text-align: center;
+    padding-top: 10px;
+}
+.ten .link{
+    text-decoration: none; 
+    color:orange;
+}
+.eleven{
+    width: 100%;
+    height: 600px;
+}
+.eleven .row{
+color: white;
+}
+.eleven .box{
+    display: block;
+    color: black;
+}
+.eleven .a{
+color: black;
+font-weight: bolder;
+}
+.eleven .b{
+    font-size: 20px;
+}
+.eleven .img{
+width:500px;
+height:600px;
+border-radius: 25px
+}
+.eleven .c{
+color: white;
+font-size: 20px;
+}
+.twelve{
+    width: 100%;
+    height: 600px;
+    background-color:#f9f6ee
+}
+.twelve .container {
+    padding-top: 40px;
+    /* height: 1000px; */
+}
+.twelve .row{
+    width: 100%;
+    height: 600px;
+    background-color: white ;
+    display: flex;
+    border-radius: 30px;
+}
+
+.twelve .text .box{
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #99e54d;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    
+}
+.twelve .heading{
+    text-align: center;
+    margin-top: 30px;
+}
+.twelve  .header{
+  font-size: 20px;
+  margin-left: 50px;
+  font-weight: bolder;
+}
+.twelve  .para{
+    color: white;
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: black;
+   
+}
+.twelve .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.twelve .head{
+    margin-left: 50px;
+    font-weight: bolder;
+}
+.twelve .btn{
+    width: 200px;
+    height: 55px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.twelve .box1{
+    width: 200%;
+    height: 120px;
+    margin-top: 30px;
+    
+}
+.card9{
+    
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.card10{
+   
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    margin-right: 40px;
+    /* margin-left: -110px; */
+    flex-direction: column;
+}
+.card11{
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.twelve .box1 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.twelve .box1 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.twelve .box1 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.twelve .box1 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.twelve .box2{
+    width: 200%;
+    height: 150px;
+    margin-top: 30px;
+    
+}
+.twelve .box2 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.twelve .box2 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.twelve .box2 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.twelve .box2 .com1{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.twelve .box2 .logo{
+    color: black; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.twelve .box2 .logo1{
+    color: black; 
+    text-decoration: none;
+    margin-left: -380px;
+    margin-top: 300px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.twelve .box3{
+    width: 200%;
+    height: 280px;
+    margin-top: 30px;
+    
+}
+.twelve .box3 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.twelve .box3 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.twelve .box3 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.twelve .box3 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.thirteen{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: #333333;
+    color: white;
+    margin-top: 100px;
+}
+.thirteen .head{
+    margin-top: 60px;
+    color: white;
+}
+.thirteen .a{
+    color: white;
+}

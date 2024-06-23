@@ -1,0 +1,925 @@
+body{
+    background-color: #f9f6ee;
+}
+.one .row{
+    height: 100px;
+}
+.two {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    background-color: #f9f6ee;
+}
+.two .box{
+    font-weight: bolder;
+}
+
+.two .text {
+    background-color: rgb(178, 222, 113);
+    margin-top: 30px;
+    height: 500px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+
+.two .btn {
+    width: 200px;
+    height: 55px;
+    background-color: black;
+    border-radius: 22px;
+    color: white;
+    font-weight: bolder;
+    /* margin-top: 20px; */
+    margin-left: 20px;
+
+}
+.two .p{
+    color: white; 
+    margin-left: 20px;
+}
+.text .box {
+    width: 200px;
+    height: 200px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: -30px;
+    margin-left: 250px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.text .t {
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.text .para {
+    color: white;
+    margin-left: 20px;
+
+}
+
+.para .link {
+    color:white;
+    text-decoration: none;
+
+}
+
+.two .box2 {
+    background-color: rgb(178, 222, 113);
+    background: url(/image/chowmein.jpg);
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+
+.three {
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.three .head {
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 10px;
+}
+
+.three .header {
+    text-align: center;
+   
+    padding-top: 50px;
+}
+.three .link{
+    text-decoration: none; 
+    color:orange;
+}
+
+.four {
+    background-color: #f9f6ee;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.four .row{
+   color: #9f9f9f;
+}
+
+.four .col-12 {
+    display: flex;
+    /* background-color: RED; */
+
+}
+.four .img{
+    width:85%;
+     height:300px;
+    margin:30px 0px 0px 30px; 
+    border-radius: 30px;
+}
+.four .hot{
+    text-align: center; 
+    margin-top: 30px; 
+    color: black; 
+    font-weight: bolder;
+}
+.four .card1 {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 350px;
+    height: 550px;
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: white;
+}
+.four .card2 {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    margin-top: 30px;
+    width: 350px;
+    height: 550px;
+    margin-left: 30px;
+    background-color: white;
+
+}
+
+.four .btn {
+    margin-top: 30px;
+    margin-left: 60px;
+    background-color: #99e54d;
+    border-radius: 22px;
+    text-align: center;
+    width: 200px;
+    height: 55px;
+}
+
+.five{
+    background-color: #f9f6ee;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.five .row{
+    color: #9f9f9f;
+}
+
+.five .col-12 {
+    display: flex;
+
+}
+.five .img{
+    width:85%;
+    height:300px;
+    margin:30px 0px 0px 30px;
+    border-radius: 30px;
+}
+.five .hot{
+    text-align: center;
+     margin-top: 30px; 
+     color: black;
+      font-weight: bolder;
+}
+
+.five .btn {
+    margin-top: 30px;
+    margin-left: 60px;
+    background-color: #99e54d;
+    border-radius: 22px;
+    text-align: center;
+    width: 200px;
+    height: 55px;
+}
+.five .card1 {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 350px;
+    height: 550px;
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: white;
+}
+.five .card2 {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    margin-top: 30px;
+    width: 350px;
+    height: 550px;
+    margin-left: 30px;
+    background-color: white;
+
+}
+
+.six {
+    width: 100%;
+    height: 350px;
+    color: white;
+    background-color: #99e54d;
+}
+.six .text{
+    padding-top: 20px;
+    color: white;
+}
+.six .logo{
+    color: white;
+    text-decoration: none;
+    font-size: 33px;
+    padding-top: 20px; 
+    font-weight: bolder;
+}
+.six .col-12 {
+    width: 80%;
+    height: 250px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 150px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.seven {
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.seven .card1 {
+    background-image: url(/image/food.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 520px;
+    height: 500px;
+    margin-left: 15px;
+    background-color: black;
+}
+
+.seven .card2 {
+
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 520px;
+    height: 500px;
+    margin-left: 15px;
+    background-color: #99e54d;
+
+}
+
+.seven .text {
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.seven  .p {
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    color: black;
+
+}
+
+.seven .text .t {
+    color: black;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.seven .text .para {
+    color: black;
+    font-size: 19px;
+    text-align: center;
+
+}
+
+.seven .link {
+    color: black;
+    text-decoration: none;
+}
+
+.seven .btn {
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    border-radius: 22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 400px;
+    text-align: center;
+    justify-content: center;
+    margin-left: -230px;
+}
+
+.eight {
+    width: 100%;
+    height: 600px;
+}
+
+.eight .card1 {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 520px;
+    height: 550px;
+    margin-left: 15px;
+    background-color: black;
+}
+
+.eight .card2 {
+    background-image: url(/image/burger.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 520px;
+    height: 550px;
+    margin-left: 15px;
+    background-color: #99e54d;
+
+}
+
+.eight .text {
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 120px;
+}
+
+.eight  .p {
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    color: white;
+
+}
+
+.eight  .t {
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.eight  .para {
+    color: white;
+    font-size: 19px;
+    text-align: center;
+
+}
+
+.eight .link {
+    color: white;
+    text-decoration: none;
+}
+
+.eight .btn {
+    width: 150px;
+    height: 50px;
+    background-color: #99e54d;
+    border-radius: 22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 340px;
+    text-align: center;
+    justify-content: center;
+    margin-left: -230px;
+}
+
+.nine {
+    width: 100%;
+    height: 200px;
+
+}
+
+.nine .head {
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 100px;
+    font-weight: bolder;
+}
+
+.nine .para {
+    color: black;
+    font-size: 19px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.nine .link {
+    color: #99e54d;
+    text-decoration: none;
+}
+
+.ten {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 500px;
+}
+
+.ten .card5 {
+    display: flex;
+    border-radius: 15%;
+    width: 400px;
+    height: 450px;
+    margin-left: 135px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.ten .card6 {
+    display: flex;
+    border-radius: 15%;
+    width: 400px;
+    height: 450px;
+    margin-left: 15px;
+    background-color: white;
+    margin-top: 20px;
+}
+.ten .head{
+    margin:25px 0px 0px 25px; 
+    color: blue;
+}
+.ten .header{
+    margin:15px 0px 0px 40px;
+    text-align:center;
+    color:  black;
+    font-weight: bolder;
+}
+.ten .heading{
+    margin:15px 0px 0px 40px;
+     color: black; 
+     text-align: center;
+}
+.ten .btn {
+    width: 160px;
+    height: 55px;
+    background-color: #99e54d;
+    border-radius: 22px;
+    color: black;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.ten .btn:hover {
+    background-color: #f1ae0e;
+}
+
+.eleven {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 500px;
+}
+.eleven .head{
+    margin:25px 0px 0px 25px; 
+    color: blue;
+}
+.eleven .header{
+    margin:15px 0px 0px 40px;
+    text-align:center;
+    color:  black; 
+    font-weight: bolder;
+}
+.eleven .heading{
+    margin:15px 0px 0px 40px;
+     color: black; 
+     text-align: center;
+}
+.eleven .card5 {
+    display: flex;
+    border-radius: 15%;
+    width: 400px;
+    height: 450px;
+    margin-left: 135px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.eleven .card6 {
+    display: flex;
+    border-radius: 15%;
+    width: 400px;
+    height: 450px;
+    margin-left: 15px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.eleven .btn {
+    width: 160px;
+    height: 55px;
+    background-color: #99e54d;
+    border-radius: 22px;
+    color: black;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.eleven .btn:hover {
+    background-color: #f1ae0e;
+}
+
+.twelve {
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    background-color:#99e54d
+}
+
+.twelve .text {
+    margin-top: 40px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    
+} 
+.twelve .data{
+    display: flex;
+    width: 270px;
+    height: 50px;
+   border-radius: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.twelve .textin {
+    display: flex;
+    margin-top: 29px;
+    text-align: center;
+    justify-content: center;
+}
+
+.twelve .submit {
+    width: 120px;
+    height: 50px;
+    color: white;
+    border-radius: 25px;
+    background-color: black;
+    margin-left: 20px;
+}
+
+.twelve .textbox {
+    width: 270px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 25px;
+    
+
+}
+.thirteen {
+    background-color: #f9f6ee;
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.thirteen .card1 {
+    background-image: url(/image/food.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 520px;
+    height: 500px;
+    margin-left: 15px;
+    background-color: black;
+}
+
+.thirteen .card2 {
+
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    width: 520px;
+    height: 500px;
+    margin-left: 15px;
+    background-color: black;
+
+}
+
+.thirteen .text {
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 80px;
+    color: white;
+}
+
+.thirteen  .p {
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    color: white;
+
+}
+
+.thirteen  .t {
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.thirteen  .para {
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+
+.thirteen  .link {
+    color: white;
+    text-decoration: none;
+}
+
+.thirteen .btn {
+    width: 150px;
+    height: 50px;
+    background-color: #99e54d;
+    border-radius: 22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 330px;
+    text-align: center;
+    justify-content: center;
+    margin-left: -230px;
+}
+.thirteen .btn:hover{
+    background-color: white;
+    color: black;
+}
+.fourteen{
+    width: 100%;
+    height: 560px;
+    display: flex;
+    background-color: #f9f6ee;
+}
+.fourteen .box{
+    font-weight: bolder;
+}
+
+.fourteen .text {
+    background-color: rgb(178, 222, 113);
+    margin-top: 30px;
+    height: 550px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+
+.fourteen .btn {
+    width: 200px;
+    height: 55px;
+    background-color: black;
+    border-radius: 22px;
+    color: white;
+    font-weight: bolder;
+    /* margin-top: 20px; */
+    margin-left: 20px;
+
+}
+.fourteen .p{
+    color: white; 
+    margin-left: 20px;
+}
+.fourteen .box {
+    width: 200px;
+    height: 200px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: -30px;
+    margin-left: 250px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.fourteen .t {
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.fourteen  .para {
+    color: white;
+    margin-left: 20px;
+
+}
+
+.fourteen .link {
+    color:white;
+    text-decoration: none;
+
+}
+
+.fourteen .main {
+    background-color:white;
+    margin-top: 30px;
+    height: 550px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+.fourteen .box1{
+    width: 200%;
+    height: 100px;
+    /* margin-top: 20px; */
+    margin-left: 60px;
+}
+.card9{
+    
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.card10{
+   
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    margin-right: 40px;
+    /* margin-left: -110px; */
+    flex-direction: column;
+}
+.card11{
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.fourteen .box1 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.fourteen .box1 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.fourteen .box1 .logo{
+    color: greenyellow; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.fourteen .box1 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.fourteen .box2{
+    width: 200%;
+    height: 120px;
+    margin-top: 20px;
+    margin-left: 60px;
+    
+}
+.fourteen .box2 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.fourteen .box2 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.fourteen .box2 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.fourteen .box2 .com1{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.fourteen .box2 .logo{
+    color: black; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.fourteen .box2 .logo1{
+    color: black; 
+    text-decoration: none;
+    margin-left: -380px;
+    margin-top: 300px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.fourteen .box3{
+    width: 200%;
+    height: 280px;
+    margin-top: 20px;
+    margin-left: 60px;
+    
+}
+.fourteen .box3 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.fourteen .box3 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.fourteen .box3 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.fourteen .box3 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.fifteen{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: #333333;
+    color: white;
+    margin-top: 100px;
+}
+.fifteen .head{
+    margin-top: 60px;
+    color: white;
+}
+.fifteen .a{
+    color: white;
+}

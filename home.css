@@ -1,0 +1,630 @@
+body{
+    background-color:#f9f6ee ;
+}
+.container-fluid{
+    height: 100px;
+}
+
+.two .container{
+    background: url('https://img.freepik.com/free-photo/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view_2829-20115.jpg?w=740&t=st=1687420639~exp=1687421239~hmac=1ec6ebf5ad42e953d4408bc789c9574749c76c412b2c59432845e8191ba75297');
+    height: 140vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 40px;
+}
+.two .p{
+    color: white;
+}
+.two .col-6{
+    margin-left: 22px;
+}
+.two .btn{
+    width: 200px;
+    height: 55px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.text .box{
+    width: 200px;
+    height: 200px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.text .t{
+    color: white;
+    margin-top: 10px;
+}
+.text .para{
+    color: white;
+   
+}
+.para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.three{
+        width: 100%;
+        height: 200px;
+        background-color: white;
+}
+.three .head{
+    text-align: center;
+    justify-content: center;
+    color: black;
+    margin-top: 100px;
+}
+.four{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+}
+.card1{
+    background-image: url(/image/pi.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%; 
+    width: 250px;
+    height: 250px; 
+    margin-left: 15px;
+    background-color: black; 
+}
+.card2{
+    background-image: url(/image/burger.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%; 
+    width: 250px;
+    height: 250px; 
+    margin-left: 15px;
+    background-color: black; 
+
+}
+.card3{
+    background-image: url(/image/chowmein.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%; 
+    width: 250px;
+    height: 250px; 
+    margin-left: 15px;
+    background-color: black; 
+    margin-left: 5px;
+}
+.card4{
+    background-image: url(/image/food2.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%; 
+    width: 250px;
+    margin-left: 15px;
+    height: 250px; 
+    background-color: black; 
+
+}
+.five{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.five .col-3{
+    text-align: center;
+    justify-content: center;
+    color: black;
+    
+}
+.five .btn{
+    margin-top: 15px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    width: 200px;
+    height: 55px;
+}
+.five .head{
+    text-align: center;
+    padding-top: 50px;
+}
+.five .link{
+    text-decoration: none;
+}
+.six{
+    width: 100%;
+    height: 350px;
+    background-color: #99e54d;
+}
+.six .text{
+    padding-top: 20px;
+}
+
+.six .col-12{
+    width: 80%;
+    height: 250px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 150px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+.six .logo{
+    color: black; 
+    text-decoration: none; 
+    font-size: 33px; 
+    padding-top: 20px; 
+    font-weight: bolder;
+}
+.seven .container{
+    background: url(/image/salad.jpg);
+    height: 135vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 40px;
+    margin-top: 30px;
+   
+}
+.seven .text{
+    margin-left: 20px;
+    color: white;
+}
+.seven .text .t{
+    color: white;
+    margin-top: 330px;
+}
+.seven .text .para{
+    color: white;
+    font-size: 19px;
+   
+}
+.seven .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.seven .btn{
+width: 150px;
+height: 50px;
+background-color: #f1ae0e;
+border-radius:22px;
+color: white;
+font-weight: bolder;
+}
+
+.eight{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.eight .head{
+text-align: center;
+justify-content: center;
+color: black;
+margin-top: 100px;
+font-weight: bolder;
+}
+.nine{
+background-color: whitesmoke;
+width: 100%;
+height: 450px;
+}
+.card5{
+display: flex;
+border-radius: 15%; 
+width: 270px;
+height: 380px; 
+margin-left: 15px;
+background-color: white; 
+margin-top: 20px;
+}
+.card6{
+display: flex;
+border-radius: 15%; 
+width: 270px;
+height: 380px; 
+margin-left: 15px;
+background-color: white; 
+margin-top: 20px;
+}
+.card7{
+display: flex;
+border-radius: 15%; 
+width: 270px;
+height: 380px; 
+margin-left: 15px;
+background-color: white; 
+margin-top: 20px;
+}
+.card8{
+display: flex;
+border-radius: 15%; 
+width: 270px;
+margin-left: 15px;
+height: 380px; 
+background-color: white; 
+margin-top: 20px;
+}
+.nine .head{
+    margin:25px 0px 0px 25px; 
+    color: blue;
+}
+.nine .header{
+    margin:15px 0px 0px 40px;
+     color: black; 
+     font-weight: bolder;
+}
+.nine .heading{
+    margin:15px 0px 0px 40px; 
+    color: black;
+}
+.nine .btn{
+    width: 160px;
+    height: 55px;
+    background-color: #99e54d;
+    border-radius:22px;
+    color: black;
+    font-weight: bolder;
+    margin-left: 40px;
+    margin-top: 20px;
+    }
+.nine .btn:hover{
+        background-color: #f1ae0e;
+}
+.ten .head{
+    text-align: center;
+    padding-top: 50px;
+}
+.ten .link{
+    text-decoration: none;
+     color:#f1ae0e;
+}
+.eleven .container{
+    background: url(/image/mic.jpg);
+    height: 125vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 40px;
+    margin-top: 30px;
+   
+}
+.eleven .p{
+    color: white; 
+    font-weight: bolder;
+}
+.eleven .text{
+    margin-left: 20px;
+}
+.eleven .text .t{
+    color: white;
+    margin-top: 330px;
+}
+.eleven .text .para{
+    color: white;
+    font-size: 19px;
+   
+}
+.eleven .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.eleven .btn{
+width: 150px;
+height: 50px;
+background-color: #f1ae0e;
+border-radius:22px;
+color: white;
+font-weight: bolder;
+margin-left: 22px;
+}
+.twelve{
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    background-color:#f1ae0e;
+}
+.twelve .text{
+    padding-top: 20px;
+}
+.twelve .col-12{
+    width: 80%;
+    height: 270px;
+    background-color: #f9f6ee ;
+    margin-top: 50px;
+    margin-left: 150px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
+}
+.twelve .textin{
+    display: flex;
+    margin-top: 29px;
+    text-align: center;
+    justify-content: center;
+}
+.twelve .submit{
+    width: 120px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #99e54d;
+    margin-left: 20px;
+}
+.twelve .textbox{
+    width: 220px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #99e54d;
+    
+    
+}
+.thirteen .container{
+    background: url(/image/mond.jpg);
+    height: 140vh;
+    background-repeat: no-repeat;
+    background-color: #f9f6ee;
+    background-size: cover;
+    border-radius: 40px;
+    margin-top: 30px;  
+    background-color:#f9f6ee 
+}
+.thirteen .p{
+    color: white; 
+    font-weight: bolder;
+}
+.thirteen .text{
+    margin-left: 20px;
+}
+.thirteen .text .t{
+    color: white;
+    margin-top: 330px;
+}
+.thirteen .text .para{
+    color: white;
+    font-size: 19px;
+   
+}
+.thirteen .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.thirteen .btn{
+width: 150px;
+height: 50px;
+background-color: #f1ae0e;
+border-radius:22px;
+color: white;
+font-weight: bolder;
+margin-left: 20px;
+}
+.forteen{
+    width: 100%;
+    height: 600px;
+    background-color:#f9f6ee
+}
+.forteen .container {
+    padding-top: 40px;
+    /* height: 1000px; */
+}
+.forteen .row{
+    width: 100%;
+    height: 600px;
+    background-color: white ;
+    display: flex;
+    border-radius: 30px;
+}
+
+.forteen .text .box{
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+    background-color: #99e54d;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    
+}
+.forteen  .para{
+    color: white;
+    font-size: 19px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: black;
+   
+}
+.forteen .para .link{
+    color: #99e54d ;
+    text-decoration: none;
+}
+.forteen .head{
+    margin-left: 50px;
+    font-weight: bolder;
+}
+.forteen .btn{
+    width: 200px;
+    height: 55px;
+    background-color: #f1ae0e;
+    border-radius:22px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.forteen .box1{
+    width: 200%;
+    height: 120px;
+    margin-top: 30px;
+    
+}
+.card9{
+    
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.card10{
+   
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    margin-right: 40px;
+    /* margin-left: -110px; */
+    flex-direction: column;
+}
+.card11{
+    width: 70px;
+    height: 70px;
+    background-color: #99e54d;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    display: flex;
+    /* margin-left: 130px; */
+    flex-direction: column;
+}
+.forteen .box1 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.forteen .box1 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.forteen .box1 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.forteen .box1 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.forteen .box2{
+    width: 200%;
+    height: 150px;
+    margin-top: 30px;
+    
+}
+.forteen .box2 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.forteen .box2 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.forteen .box2 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.forteen .box2 .com1{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.forteen .box2 .logo{
+    color: black; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.forteen .box2 .logo1{
+    color: black; 
+    text-decoration: none;
+    margin-left: -380px;
+    margin-top: 300px; 
+    font-size: 18px;
+    font-weight: bold;
+}
+.forteen .box3{
+    width: 200%;
+    height: 280px;
+    margin-top: 30px;
+    
+}
+.forteen .box3 .text1{
+    color: black;
+    margin-left: 90px;
+    margin-top: -70px;
+   
+    
+}
+.forteen .box3 .text2{
+    color: black;
+    margin-left: 90px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.forteen .box3 .com{
+    float: left;
+    color: black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.forteen .box3 .logo{
+    color: orange; 
+    text-decoration: none;
+    margin-left: -60px;
+    margin-top: 30px; 
+    font-size: 18px;
+}
+.fifteen{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    background-color: #333333;
+    color: white;
+    margin-top: 100px;
+}
+.fifteen .head{
+    margin-top: 60px;
+    color: white;
+}
+.fifteen .a{
+    color: white;
+}
